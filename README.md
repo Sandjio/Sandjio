@@ -1,5 +1,5 @@
 # Hi there, I'm Emmanuel Sandjio! 👋
-I'm a Software Developer from Cameroon. I specialize in front-end development, back-end development, and architecting solutions on AWS.
+I'm a Software Developer from Cameroon. I specialize in front-end development (React and Next.js), back-end development (Django), architecting and developing serverless solutions on Amazon Web Services.
 
 Have a look on my projects:
 - [Benda](https://main.d3ugnmj51ofcbd.amplifyapp.com/)
