@@ -3,6 +3,7 @@ I'm a Software Developer from Cameroon. I specialize in front-end development, b
 
 Have a look on my projects:
 - [Benda](https://main.d3ugnmj51ofcbd.amplifyapp.com/)
+- [My Blog](https://blog.emmasandjio.com/)
 
 
 
