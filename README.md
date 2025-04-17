@@ -32,6 +32,17 @@ $ ls -la ~/projects
 -rw-r--r--  1 user  devs  7621 Jan 2025  my-blog         → Personal blog where I write about the lastest trends in the cloud space
 -rw-r--r--  1 user  devs  4278 Oct 2023  benda           → Benda is a prenancy monitoring app couple with an IoT watch for the detection of early signs of pregnancy complications
 ```
+### 📜 > Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/80361075-89ee-481e-9277-6d1823ce46c9/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate Badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/9d98c834-5cc3-41b5-a5e1-d31a7e7eb244/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" width="120" alt="AWS Certified Solutions Architect – Associate Badge"/>
+  </a>
+</p>
+
+
 ### 📈 > github.stats --show
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sandjio&show_icons=true&theme=great-gatsby"" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandjio&layout=compact&theme=great-gatsby"" /> 
@@ -48,3 +59,7 @@ $ sendmail emmasandjio@gmail.com
 <!-- FOOTER --> 
 <p align="center">📍 Based in Douala, Cameroon | Built with 💻 and ☕ | Last updated: April 2025</p>
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80361075-89ee-481e-9277-6d1823ce46c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+https://www.credly.com/badges/80361075-89ee-481e-9277-6d1823ce46c9/public_url
