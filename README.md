@@ -46,5 +46,5 @@ $ open x.com/EmmanuelSandjio
 $ sendmail emmasandjio@gmail.com
 ```
 <!-- FOOTER --> 
-<p align="center">📍 Based in [Douala, Cameroon] | Built with 💻 and ☕ | Last updated: April 2025</p>
+<p align="center">📍 Based in Douala, Cameroon | Built with 💻 and ☕ | Last updated: April 2025</p>
 
