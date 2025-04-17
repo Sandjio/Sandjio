@@ -58,8 +58,3 @@ $ sendmail emmasandjio@gmail.com
 ```
 <!-- FOOTER --> 
 <p align="center">📍 Based in Douala, Cameroon | Built with 💻 and ☕ | Last updated: April 2025</p>
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="80361075-89ee-481e-9277-6d1823ce46c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-https://www.credly.com/badges/80361075-89ee-481e-9277-6d1823ce46c9/public_url
